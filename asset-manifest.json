@@ -1,27 +1,48 @@
 {
   "files": {
     "main.css": "/We8-Grocery/static/css/main.0ce8ab0f.css",
-    "main.js": "/We8-Grocery/static/js/main.4590ba2b.js",
-    "static/js/156.74dccc7f.chunk.js": "/We8-Grocery/static/js/156.74dccc7f.chunk.js",
+    "main.js": "/We8-Grocery/static/js/main.63226664.js",
+    "static/js/488.b51497b1.chunk.js": "/We8-Grocery/static/js/488.b51497b1.chunk.js",
     "static/media/image5.svg": "/We8-Grocery/static/media/image5.3ce4783ffd5254e14b919e9ae91d6dc1.svg",
+    "static/media/slider-2.png": "/We8-Grocery/static/media/slider-2.a2427e6f21d336a6e2e5.png",
     "static/media/image2.jpg": "/We8-Grocery/static/media/image2.f4ca85813c0a3b36f6ff.jpg",
     "static/media/image 1.jpg": "/We8-Grocery/static/media/image 1.5ea2a9be8c4d905baf80.jpg",
+    "static/media/squid.jpg": "/We8-Grocery/static/media/squid.4f2d3d0eb3483c2191f8.jpg",
     "static/media/image4.jpg": "/We8-Grocery/static/media/image4.1eddbd3a85552219f0aa.jpg",
+    "static/media/tilopia.jpg": "/We8-Grocery/static/media/tilopia.dc8a0f5ad4b8d1bc21f1.jpg",
     "static/media/image3.jpg": "/We8-Grocery/static/media/image3.2cd25a9861a8d953c034.jpg",
+    "static/media/rupchanda.jpg": "/We8-Grocery/static/media/rupchanda.c7c2d5e5d8679add7fb7.jpg",
+    "static/media/emperor.jpg": "/We8-Grocery/static/media/emperor.0b0dcf974f05978f6a7e.jpg",
+    "static/media/spar.jpg": "/We8-Grocery/static/media/spar.46fe6c4061d21bfacbf3.jpg",
+    "static/media/grapes.jpg": "/We8-Grocery/static/media/grapes.3ee85a582cf887a4927d.jpg",
+    "static/media/milkymist.jpg": "/We8-Grocery/static/media/milkymist.5722d139aa1023015a32.jpg",
+    "static/media/amul.jpg": "/We8-Grocery/static/media/amul.7b00f7feeed7d263b297.jpg",
+    "static/media/slider-1.png": "/We8-Grocery/static/media/slider-1.9e1433d6faeed2d8ae17.png",
+    "static/media/milky.jpg": "/We8-Grocery/static/media/milky.b243ce31dc0b5032920b.jpg",
+    "static/media/dragon.jpg": "/We8-Grocery/static/media/dragon.455a5dd279c07c452540.jpg",
+    "static/media/amulcheese.jpg": "/We8-Grocery/static/media/amulcheese.f265e11609d99234ad08.jpg",
+    "static/media/guava.jpg": "/We8-Grocery/static/media/guava.657f1310e648cb1c6821.jpg",
+    "static/media/mackerel.jpg": "/We8-Grocery/static/media/mackerel.bea2517f84c371352bbd.jpg",
+    "static/media/tuna.jpg": "/We8-Grocery/static/media/tuna.757e89c2d6bef0a022c3.jpg",
+    "static/media/kiwi.jpg": "/We8-Grocery/static/media/kiwi.4431e1d3e4f5363be3db.jpg",
+    "static/media/lemon.jpg": "/We8-Grocery/static/media/lemon.dfdc61565a5c1bb4e6ee.jpg",
+    "static/media/pear.jpg": "/We8-Grocery/static/media/pear.3396613d78f73bc94ce7.jpg",
     "static/media/We8 Grocery Stor Logo.jpg": "/We8-Grocery/static/media/We8 Grocery Stor Logo.c4d209404ddcf71c9745.jpg",
     "static/media/m.webp": "/We8-Grocery/static/media/m.b193d0d44fa25168114c.webp",
     "static/media/g.webp": "/We8-Grocery/static/media/g.2a7cb6d23102cd610950.webp",
     "static/media/d.webp": "/We8-Grocery/static/media/d.33a2bfaa492e331f1f63.webp",
+    "static/media/londondairy.jpg": "/We8-Grocery/static/media/londondairy.b8df9ba0242880198805.jpg",
+    "static/media/london.jpg": "/We8-Grocery/static/media/london.fc11493772fc87991b39.jpg",
     "static/media/f.webp": "/We8-Grocery/static/media/f.b7cab5693be74968223e.webp",
     "static/media/p.webp": "/We8-Grocery/static/media/p.c34098a7001f62bb5637.webp",
     "static/media/h.webp": "/We8-Grocery/static/media/h.7704593037a5e8f8cbf9.webp",
     "index.html": "/We8-Grocery/index.html",
     "main.0ce8ab0f.css.map": "/We8-Grocery/static/css/main.0ce8ab0f.css.map",
-    "main.4590ba2b.js.map": "/We8-Grocery/static/js/main.4590ba2b.js.map",
-    "156.74dccc7f.chunk.js.map": "/We8-Grocery/static/js/156.74dccc7f.chunk.js.map"
+    "main.63226664.js.map": "/We8-Grocery/static/js/main.63226664.js.map",
+    "488.b51497b1.chunk.js.map": "/We8-Grocery/static/js/488.b51497b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ce8ab0f.css",
-    "static/js/main.4590ba2b.js"
+    "static/js/main.63226664.js"
   ]
 }
